@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- I'm Ph.D. candidate in Computer Science Department at NTHU
+- I'm Visiting scholar in Machine Learning Department at CMU
+
+My research interests include compilers and runtimes for deep learning accelerators, architecture/performance evaluations, and compiler designs and optimizations.
+
 <!--
 **mengshyu/mengshyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
